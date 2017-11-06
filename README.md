@@ -28,6 +28,7 @@ npm install
 # Start the app
 npm start
 ```
+
 ## Running the tests
 
 No tests yet.
